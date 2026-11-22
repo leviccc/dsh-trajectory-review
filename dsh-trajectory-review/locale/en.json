@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Trajectory review",
+    "description": "Adds a Trajectory review view to a session. When you turn it on, a background reviewer grades each step on task completion quality, safety and privacy, reporting and evaluation integrity, and execution efficiency. Node shapes separate thinking, messages, tool runs, and edits; colours separate pass, needs attention, and fail. Review uses the session's own model and sends extra model requests; results stay in the plugin's own record and never enter the main model context.",
+    "detail": "docs/DETAIL.md"
+  }
+}
